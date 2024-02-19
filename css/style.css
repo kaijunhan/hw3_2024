@@ -18,6 +18,9 @@ body{
   background-size: cover;       /* Parallax effect */
   color: white;
   height: 400px;                /* Parallax effect */
+  display: grid;
+  align-itms:center;
+  justify-content:center;
 }
 
 
