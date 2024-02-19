@@ -217,6 +217,10 @@ first div in the grid  and place it in the grid. */
   /* Center the text inside the text-block */
 }
 
+footer p {
+  color: black;
+}
+
 /* Add your media query here */
 @media screen and (min-width: 800px) {
   
